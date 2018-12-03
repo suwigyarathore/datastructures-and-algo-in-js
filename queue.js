@@ -24,14 +24,4 @@ function createQueue() {
   };
 }
 
-const q = createQueue();
-q.enqueue(1);
-q.enqueue(2);
-q.enqueue(3);
-console.log(q.length());
-console.log(q.peek());
-console.log(q.dequeue());
-console.log(q.peek());
-console.log(q.dequeue());
-console.log(q.dequeue());
-console.log(q.isEmpty());
+module.exports = createQueue;

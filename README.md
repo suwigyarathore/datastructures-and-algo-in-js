@@ -1,13 +1,14 @@
-# Data Structures and Algorithim in  Javascript
+# Data Structures and Algorithims in Javascript
 
 The goal of this repository is to implement all core Data structures and algorithims in Javascript from scratch
 
 # Data Structures
- * Queue
+
+- Queue
+- Priority Queue
 
 # Algorithoms
 
-License
-----
+## License
 
 MIT
